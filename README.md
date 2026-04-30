@@ -29,6 +29,7 @@ The dashboard analyzes customer transactions, revenue distribution, and buying b
 3.Excel Dashboarding – Visualization & reporting
 
 https://github.com/rahul-oss/Customer-Shopping-Behaviour-Analysis/blob/main/Customr_shopping_behavior.PNG
+https://github.com/rahul-oss/Customer-Shopping-Behaviour-Analysis/tree/main
 
 
 **🎯 Business Value**
